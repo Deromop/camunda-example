@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Nutzereingabe",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1vhvsxw",
+        "columns": null
+      },
+      "id": "Field_0n9qd8r",
+      "key": "userinput"
+    }
+  ],
+  "type": "default",
+  "id": "userinput-form",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.29.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.22.0",
+  "schemaVersion": 17
+}
